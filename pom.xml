@@ -646,7 +646,7 @@
 		<repository>
 			<id>release</id>
 			<name>Internal Releases</name>
-			<url>http://nexus.wxpai.cn/content/repositories/release/</url>
+			<url>http://nexus.wxpai.cn/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
