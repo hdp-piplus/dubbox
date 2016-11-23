@@ -98,7 +98,7 @@
 		<zookeeper_version>3.4.9</zookeeper_version>
 		<zkclient_version>0.1</zkclient_version>
 		<curator_version>2.11.1</curator_version>
-		<jedis_version>2.9.0</jedis_version>
+		<jedis_version>2.1.0</jedis_version>
 		<xmemcached_version>2.2.0</xmemcached_version>
 		<cxf_version>2.6.1</cxf_version>
 		<thrift_version>0.8.0</thrift_version>
