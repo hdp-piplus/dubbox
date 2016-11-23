@@ -161,7 +161,8 @@ public class PojoUtils {
         }
         Map<String, Object> map = new HashMap<String, Object>();
         history.put(pojo, map);
-        map.put("class", pojo.getClass().getName());
+        /**注释类的名字**/
+        //map.put("class", pojo.getClass().getName());
         for (Method method : pojo.getClass().getMethods()) {
             if (ReflectUtils.isBeanPropertyReadMethod(method)) {
                 try {
